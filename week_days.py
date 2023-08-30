@@ -32,8 +32,9 @@ def favorite_activities():
 
 '''
     Take a look back at the code you just wrote. Look at how much it does!
+
     Often, programmers will be given large tasks, and it's our responsibility to be able to break it down into
-    smaller pieces. We did the above piece by piece, but think about what the prompt might have been
+    smaller pieces. We did the above piece by piece.  Now think about what the prompt might have been
     to get us there.
 
     Maybe: Write a program that asks the user about their favorite thing to do each day of the week.
@@ -58,5 +59,5 @@ def temp_by_day_continuous():
     # tell the user to wear a sweater. Once the temperature is over 65, stop looping, and tell the user that
     # Spring has sprung!
 
-    # NOTE: remember, if you accidentally create an infinite while loop, it's ok! Go into the command line and
-    # hit control + C to stop the program. No harm done to your computer (:
+    # NOTE: If you accidentally create an infinite while loop, it's ok! Go into the command line and
+    # hit control + C to stop the program. No harm has been done to your computer.

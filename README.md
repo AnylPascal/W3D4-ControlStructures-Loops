@@ -1,6 +1,6 @@
 # What's in a week?
 
-## Challenge 5
+## W3D4 - Control Structures - Loops
 
 Loop through data for powerful outcomes
 
@@ -31,4 +31,4 @@ And REMEMBER: Comment out or delete the calls to your functions-- the tests can'
 3. From the main folder of the challenge, run your computer's version of `python3 -m unittest` to see if your code works as expected
 4. `git add`, `git commit`, `git push` your code, and look for the little green check mark on your repo that tells you your tests passed
 
-And you're all set!
+You are all set!
